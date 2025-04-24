@@ -1,0 +1,65 @@
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\bin\Debug\net8.0\WebRgbToCmykFullFunctionality.staticwebassets.runtime.json
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\bin\Debug\net8.0\WebRgbToCmykFullFunctionality.staticwebassets.endpoints.json
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\bin\Debug\net8.0\WebRgbToCmykFullFunctionality.exe
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\bin\Debug\net8.0\WebRgbToCmykFullFunctionality.deps.json
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\bin\Debug\net8.0\WebRgbToCmykFullFunctionality.runtimeconfig.json
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\bin\Debug\net8.0\WebRgbToCmykFullFunctionality.dll
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\bin\Debug\net8.0\WebRgbToCmykFullFunctionality.pdb
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.csproj.AssemblyReference.cache
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.GeneratedMSBuildEditorConfig.editorconfig
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.AssemblyInfoInputs.cache
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.AssemblyInfo.cs
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.csproj.CoreCompileInputs.cache
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.MvcApplicationPartsAssemblyInfo.cache
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.RazorAssemblyInfo.cache
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.RazorAssemblyInfo.cs
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\scopedcss\bundle\WebRgbToCmykFullFunctionality.styles.css
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\staticwebassets.build.json
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\staticwebassets.development.json
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\staticwebassets\msbuild.WebRgbToCmykFullFunctionality.Microsoft.AspNetCore.StaticWebAssets.props
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\staticwebassets\msbuild.WebRgbToCmykFullFunctionality.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\staticwebassets\msbuild.build.WebRgbToCmykFullFunctionality.props
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebRgbToCmykFullFunctionality.props
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebRgbToCmykFullFunctionality.props
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\staticwebassets.pack.json
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\WebRgbTo.AB80DCDB.Up2Date
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.dll
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\refint\WebRgbToCmykFullFunctionality.dll
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.pdb
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.genruntimeconfig.cache
+F:\linh tinh\xử lý\WebRgbToCmykFullFunctionality\obj\Debug\net8.0\ref\WebRgbToCmykFullFunctionality.dll
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\bin\Debug\net8.0\WebRgbToCmykFullFunctionality.staticwebassets.runtime.json
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\bin\Debug\net8.0\WebRgbToCmykFullFunctionality.staticwebassets.endpoints.json
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\bin\Debug\net8.0\WebRgbToCmykFullFunctionality.exe
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\bin\Debug\net8.0\WebRgbToCmykFullFunctionality.deps.json
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\bin\Debug\net8.0\WebRgbToCmykFullFunctionality.runtimeconfig.json
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\bin\Debug\net8.0\WebRgbToCmykFullFunctionality.dll
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\bin\Debug\net8.0\WebRgbToCmykFullFunctionality.pdb
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.csproj.AssemblyReference.cache
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.AssemblyInfoInputs.cache
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.AssemblyInfo.cs
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.csproj.CoreCompileInputs.cache
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.RazorAssemblyInfo.cache
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.RazorAssemblyInfo.cs
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\scopedcss\bundle\WebRgbToCmykFullFunctionality.styles.css
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\staticwebassets\msbuild.WebRgbToCmykFullFunctionality.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\staticwebassets\msbuild.WebRgbToCmykFullFunctionality.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\staticwebassets\msbuild.build.WebRgbToCmykFullFunctionality.props
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebRgbToCmykFullFunctionality.props
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebRgbToCmykFullFunctionality.props
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\WebRgbTo.AB80DCDB.Up2Date
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.dll
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\refint\WebRgbToCmykFullFunctionality.dll
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.pdb
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\WebRgbToCmykFullFunctionality.genruntimeconfig.cache
+C:\Users\fpt\Downloads\webRGP--CMYK-main\webRGP--CMYK-main\obj\Debug\net8.0\ref\WebRgbToCmykFullFunctionality.dll

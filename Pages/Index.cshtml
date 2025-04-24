@@ -1,0 +1,140 @@
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "RGB to CMYK Converter";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>@ViewData["Title"]</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #f2f4f8;
+            margin: 0;
+            padding: 40px;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: #fff;
+            padding: 30px 40px;
+            border-radius: 16px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #222;
+            margin-bottom: 30px;
+        }
+        h2 {
+            margin-top: 40px;
+            color: #444;
+        }
+        .upload-form {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        .file-input {
+            padding: 8px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+        }
+        .btn {
+            background-color: #4a90e2;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+        .btn:hover {
+            background-color: #357bd8;
+        }
+        .channel-container {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-top: 20px;
+        }
+        .channel-box {
+            text-align: center;
+            background-color: #fafafa;
+            padding: 16px;
+            border-radius: 12px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+            width: 160px;
+        }
+        .channel-box h4 {
+            margin: 10px 0;
+            color: #555;
+        }
+        .channel-box img {
+            width: 100%;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+            margin-bottom: 8px;
+        }
+        .channel-box a {
+            text-decoration: none;
+            color: #4a90e2;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎨 RGB to CMYK Converter</h1>
+
+        <form method="post" enctype="multipart/form-data" class="upload-form">
+            <input type="file" name="UploadedImage" class="file-input" />
+            <button type="submit" class="btn">Convert</button>
+        </form>
+
+        @if (Model?.CPath != null)
+        {
+            <h2>🖼️ Converted Channels:</h2>
+            <div class="channel-container">
+                <div class="channel-box">
+                    <h4>Cyan</h4>
+                    <img src="@Model.CPath" />
+                    <br />
+                    <a href="@Model.CPath" download>Download</a>
+                </div>
+                <div class="channel-box">
+                    <h4>Magenta</h4>
+                    <img src="@Model.MPath" />
+                    <br />
+                    <a href="@Model.MPath" download>Download</a>
+                </div>
+                <div class="channel-box">
+                    <h4>Yellow</h4>
+                    <img src="@Model.YPath" />
+                    <br />
+                    <a href="@Model.YPath" download>Download</a>
+                </div>
+                <div class="channel-box">
+                    <h4>Black (K)</h4>
+                    <img src="@Model.KPath" />
+                    <br />
+                    <a href="@Model.KPath" download>Download</a>
+                </div>
+                <div class="channel-box">
+                    <h4>CMYK Combined</h4>
+                    <img src="@Model.CmykPath" />
+                    <br />
+                    <a href="@Model.CmykPath" download>Download</a>
+                </div>
+            </div>
+        }
+    </div>
+</body>
+</html>
