@@ -13,7 +13,8 @@ RUN dotnet restore
 
 # Copy everything else and build
 COPY . ./
-RUN dotnet publish -c Release -o /app/publish
+RUN dotnet publish WebRgbToCmykFullFunctionality.csproj -c Release -o /app/publish
+
 
 # Final stage
 FROM base AS final
